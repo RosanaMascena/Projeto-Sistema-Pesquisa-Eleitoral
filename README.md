@@ -6,13 +6,13 @@ Projeto realizado no curso Tecnólogo Sistemas para Internet, da disciplina de P
 
 Criar um programa em Java para realizar uma pesquisa eleitoral:
 
-1 - Realizar a quantidade de pessoas que participaram da pesquisa;
+1 - Registrar a quantidade de pessoas que participaram da pesquisa;
 
 2 – Realizar a leitura de voto pela quantidade de pessoas participantes da pesquisa;
 
 3 – Calcular o percentual referente a quantidade de votos;
 
-4 - Mostrar na tela a quantidade e o percentual de cada.
+4 - Mostrar na tela a quantidade e o percentual de cada um dos candidatos.
 
 
 A pesquisa deve considerar os seguintes candidatos:
